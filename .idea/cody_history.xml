@@ -113,6 +113,52 @@
             </llm>
           </llm>
         </chat>
+        <chat>
+          <accountId value="VXNlcjoxNzAzNDM=" />
+          <internalId value="687d2134-0edb-421b-ab70-8dce4ca79bcc" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-3-sonnet-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Sonnet" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxNzAzNDM=" />
+          <internalId value="a8113fe3-bb69-49c6-aa2a-77c4fc1304ef" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-3-sonnet-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Sonnet" />
+            </llm>
+          </llm>
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="hi" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value="Hello! I'm Claude, an AI assistant created by Anthropic. It's nice to meet you. How can I help you today?" />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-05-10T08:34:34.280652" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxNzAzNDM=" />
+          <internalId value="2d6f4f19-e427-4b29-9802-f45fedaa1f80" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-3-sonnet-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Sonnet" />
+            </llm>
+          </llm>
+        </chat>
       </list>
     </chats>
     <defaultLlm>
